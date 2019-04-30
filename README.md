@@ -1,5 +1,6 @@
 # College-Stats-Project
 The following is a short description on the 4 files of uploaded code
+
 1.RMSEGRAPHS: This code prints the RMSE values for each regression model (Linear, Polynomial and Random Forrest) and shows
 a bar graph to visualise the comparison between them. The linear model is the best regression model as it has the lowest RMSE.
 
